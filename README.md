@@ -1,11 +1,11 @@
 <!-- Banner Image -->
-![Banner](https://your-banner-image-url.com/banner.png)
+![Banner](https://camo.githubusercontent.com/9939f57a40461f1f7d5ee9c81e8f4634eb6a9339f5a3ced15f2ce471bb18b49b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966)
 
 # Hello, I'm Prince Rawat 👨‍💻
 
 I'm a **MERN Stack Developer** with a passion for building responsive and interactive web applications. I also love **automation** and often work with **Python** to streamline processes. My goal is to create efficient, scalable, and user-friendly apps. 
 
-I enjoy working with **React.js**, **Node.js**, **MongoDB**, and **Python** to build full-stack applications and automate tasks.
+I enjoy working with **React.js**, **Node.js**, **MongoDB**, **SQL**, and of course, **JavaScript** to build full-stack applications.
 
 ---
 
@@ -24,9 +24,13 @@ I enjoy working with **React.js**, **Node.js**, **MongoDB**, and **Python** to b
 #### Database:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sql&logoColor=white)
 
 #### Other Skills:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF9900?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 ---
 
@@ -49,6 +53,12 @@ I enjoy working with **React.js**, **Node.js**, **MongoDB**, and **Python** to b
 ### 📈 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=princerawat02&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+
+---
+
+### 📊 **Most Used Languages**
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princerawat02&layout=compact&theme=radical)
 
 ---
 
