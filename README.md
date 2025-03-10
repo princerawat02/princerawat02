@@ -48,7 +48,7 @@ I also love **automation** and often work with **Python** to streamline processe
 
 - 📧 **Email**: [princerawat707@gmail.com](mailto:princerawat707@gmail.com)
 - 💼 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-rawat/)
-- 📸 **Instagram**: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/princerawat02/)
+- 📸 **Instagram**: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_prince_rawat/)
 
 ---
 
